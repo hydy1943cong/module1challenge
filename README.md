@@ -6,4 +6,4 @@ Below is a screenshot of the website:
   <img src="assets/images/Screenshot.png" width="350" alt="screenshot of the webpage">
 </p>
 
-Here is the link to the deployed application:https://hydy1943cong.github.io/module1challenge/#social-media-marketing
+Here is the link to the deployed application:https://hydy1943cong.github.io/module1challenge
